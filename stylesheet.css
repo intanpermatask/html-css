@@ -1,0 +1,11 @@
+/*ini cara memanggil kelas */
+h1.title {
+    color: blue;
+    margin-top: 20px
+}
+
+p.title {
+    color: brown;
+    background: yellow;
+    padding-top: 10px 10px 10px 10px
+}
